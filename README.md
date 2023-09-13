@@ -7,4 +7,4 @@
 
 ## Acknowledgments:
 
-Thanks to ![DELETE](https://ml-hacker.github.io/) and others for their contribution and help
+Thanks to [DELETE](https://ml-hacker.github.io/) and others for their contribution and help

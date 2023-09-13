@@ -10,9 +10,7 @@
 <div><table frame=void>
 	<tr>
         <td align="center">
-            <img src="https://avatars.githubusercontent.com/u/69635021?v=4"
-                   alt="Typora-Logo"
-                 />
+            <img src="https://avatars.githubusercontent.com/u/69635021?v=4" alt="Typora-Logo"/>
             <br>
             <a href="https://ml-hacker.github.io/"><sub>Delete</sub></a>
         </td>

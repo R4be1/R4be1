@@ -1,5 +1,7 @@
-# Rebel. (r4be1@foxmail.com)
-## WEB-Pentester  /  WEB-Pentest-Tool-DEVer(python3)
+# Rebel.
+**Email: r4be1@foxmail.com**
+<br>
+**Title: `RedTeam` `RED Team Tool Development Researcher`**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4be1&theme=dark)
 

@@ -1,5 +1,4 @@
 # Rebel.
-**Email: r4be1@foxmail.com**
 <br>
 **Title: `RedTeam` `RedTeam Tool Development Researcher`**
 

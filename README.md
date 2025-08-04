@@ -12,18 +12,17 @@
 ## Acknowledgments:
 
 <div><table frame=void>
-	<tr>
-        <td align="center">
+<tr>
+<td align="center">
             <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/69635021&mask=circle&w=60&h=60" alt="Typora-Logo"/>
             <br>
             <a href="https://ml-hacker.github.io/"><sub>Delete</sub></a>
-        </td>
-</tr>
-<tr>
+</td>
+
 <td align="center">
             <img src="https://avatars.githubusercontent.com/u/139044047?v=4" alt="Typora-Logo"/>
             <br>
             <a href="https://github.com/honmashironeko"><sub>本间白猫</sub></a>
-        </td>
+</td>
 </tr>
 </table></div>

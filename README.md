@@ -18,5 +18,10 @@
             <br>
             <a href="https://ml-hacker.github.io/"><sub>Delete</sub></a>
         </td>
-       </tr>
+<td align="center">
+            <img src="https://avatars.githubusercontent.com/u/139044047?v=4" alt="Typora-Logo"/>
+            <br>
+            <a href="https://github.com/honmashironeko"><sub>本间白猫</sub></a>
+        </td>
+</tr>
 </table></div>
